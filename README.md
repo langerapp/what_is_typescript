@@ -1,1 +1,1 @@
-# what_is_typescript_lesson_1
+# What Is TypeScript?
