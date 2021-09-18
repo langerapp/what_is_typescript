@@ -24,8 +24,7 @@ function add(num1, num2) {
 }
 ```
 
-This is a valid function, but what if the next developer working on the code, \
-will use this function like this: `add('10', '20')` ?
+This is a valid function, but what if the next developer working on the code will use this function like this: `add('10', '20')` ?
 
 Because the two arguments are of type string, instead of type number, \
 the code won't generate a runtime error at this moment, \
